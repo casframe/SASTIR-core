@@ -6,8 +6,8 @@
 - Resonant denaturation of the soul through fragrance, vibrations, poetry, and alcohol components
 - 詩的感性味覚統合儀式型インターフェース
 - 目的：
-	•	魂の状態可視化／誘導／構文記録
-	•	五感と構文の再接続
+  - 魂の状態可視化／誘導／構文記録
+  - 五感と構文の再接続
 	•	非言語的情緒記録の詩的形式化
 	•	デジタルデバイスと身体感覚の橋渡し
 想定応用：
