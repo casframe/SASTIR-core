@@ -13,3 +13,6 @@ If you are inspired by this cosmic syntax, modest dimensional support is availab
 ## concept
 - [description English ver](description_en.md)
 - [description Japanese ver](description_ja.md)
+
+# SASTOR_recipe branch
+- [description English ver](description_en.md)
