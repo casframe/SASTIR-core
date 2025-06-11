@@ -1,0 +1,37 @@
+from collections import defaultdict
+import pandas as pd
+
+# Creating a shopping list based on the provided recipe
+shopping_items = defaultdict(list)
+
+# Ingredients for 香霧湯麺
+shopping_items["香霧湯麺"].extend([
+    "春雨 または 中華麺（乾燥インスタント可）",
+    "鶏ガラスープの素",
+    "ごま油",
+    "チューブしょうが",
+    "チューブにんにく（任意）",
+    "カット野菜ミックス（もやし・キャベツなど）",
+    "卵",
+    "醤油",
+    "白ごま or 刻みねぎ（任意）"
+])
+
+# Ingredients for Rippleモクテル
+shopping_items["Rippleモクテル"].extend([
+    "ジャスミンティー（ペットボトルやティーバッグ）",
+    "白ぶどうジュース",
+    "アロエジュース",
+    "マスカットゼリー（市販のカップデザートなど）",
+    "ミントの葉（任意）",
+    "カモミールティー（任意）"
+])
+
+# Create DataFrame
+shopping_list_df = pd.DataFrame([
+    {"カテゴリー": category, "アイテム": item}
+    for category, items in shopping_items.items()
+    for item in items
+])
+
+import ace_tools as tools; tools.display_dataframe_to_user(name="魂香スープ＆モクテルの買い物リスト", dataframe=shopping_list_df)
