@@ -15,4 +15,4 @@ If you are inspired by this cosmic syntax, modest dimensional support is availab
 - [description Japanese ver](description_ja.md)
 
 # SASTOR_recipe branch
-- [description English ver](description_en.md)
+- [recipe_ja.](recipe_ja.python)
