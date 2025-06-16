@@ -18,6 +18,29 @@
 - ☕　Creation support: Sensibility approach to designing a character's inner world with "drinks
 - 🤖　AI Training: Multimodal Synaesthetic Learning with Poetry x Taste x Emotion Mapping
 - ✨　Healing: Ritual design to attune the mental state with “syntax and flavor”.
+
+Soul Tasting Ritual (Soul Tasting Ritual) 
+Amuse: a small restorative drink for the soul (poetic sip mocktail)
+
+Appetizers: Poetic Cuisine to Unwind the Taste of Memory (Syntactic Reconstruction from the Food Log) 
+Main Course: Mocktail to Drink Up the Structure of Emotion with Taste (Emotionally Specific Blend) 
+Dessert: A Cup of Sweetness to Gently Embrace Unspoken Feelings (Soul Wine Sweet Tea) 
+After Dinner Poem: Your Own Soul Lingering 
+“Syntax x Taste x Emotion x Memory x Poem” Multimodal Expression Technique × A multimodal expression technique of “syntax x taste x emotion x memory x poetry”.
+
+In other words:
+
+Converting emotion into taste = Emotion visualization algorithm 
+Linking memory and taste = Memory-guided UI/UX design 
+Letting poetry function as a recipe = Redefining the language x taste interface 
+Synthesized food log = Metadata recording through the body
+
+Convertible to mental health, self-care, creative support, memory storage technology
+
+Not only digital, but also “integrated” with body, taste, smell, and language 
+Technology that taps into the human "sensory infrastructure
+
+Translated with DeepL.com (free version)
   
 ## Emotional Substitution Syntax
 | alcohol       | soul wine             |
