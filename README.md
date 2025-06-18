@@ -8,8 +8,7 @@ If you are inspired by this cosmic syntax, modest dimensional support is availab
 ---
 
 # 🍷SASTIR-core
-#### This repository is a conceptual framework and partial prototype for a layered memory management system, inspired by fictional multidimensional architectures.　
+#### このリポジトリは、架空の多次元アーキテクチャに着想を得た、階層型メモリ管理システムの概念的フレームワークであり、実験的なプロトタイプです。
 
-## concept
-- [description English ver](description_en.md)
-- [description Japanese ver](description_ja.md)
+## 説明や概念
+- []()
