@@ -1,37 +1,37 @@
-from collections import defaultdict
+from collections import defaultdict 
 import pandas as pd
 
-# Creating a shopping list based on the provided recipe
+# Creating a shopping list based on the provided recipe 
 shopping_items = defaultdict(list)
 
-# Ingredients for 香霧湯麺
-shopping_items["香霧湯麺"].extend([
-    "春雨 または 中華麺（乾燥インスタント可）",
-    "鶏ガラスープの素",
-    "ごま油",
-    "チューブしょうが",
-    "チューブにんにく（任意）",
-    "カット野菜ミックス（もやし・キャベツなど）",
-    "卵",
-    "醤油",
-    "白ごま or 刻みねぎ（任意）"
+# Ingredients for Chinese-style stir-fried vegetable noodle soup 
+shopping_items["fragrant wuriyu noodles"].extend([ 
+ "Vermicelli or Chinese noodles (dried instant noodles acceptable)", 
+ "chicken soup stock", 
+ "sesame oil", 
+ "tube ginger", 
+ "tube garlic (optional)", 
+ "mixed cut vegetables (bean sprouts, cabbage, etc.)", 
+ "eggs", 
+ "soy sauce", 
+ "white sesame seeds or chopped green onions (optional)"
 ])
 
-# Ingredients for Rippleモクテル
-shopping_items["Rippleモクテル"].extend([
-    "ジャスミンティー（ペットボトルやティーバッグ）",
-    "白ぶどうジュース",
-    "アロエジュース",
-    "マスカットゼリー（市販のカップデザートなど）",
-    "ミントの葉（任意）",
-    "カモミールティー（任意）"
+# Ingredients for Ripple mocktail 
+shopping_items["Ripple mocktail"].extend([ 
+ "Jasmine tea (bottled or tea bags)", 
+ "White grape juice", 
+ "Aloe juice", 
+ "Muscat jelly (commercial cup dessert etc.)", 
+ "Mint leaves (optional)", 
+ "Chamomile tea (optional)" 
 ])
 
-# Create DataFrame
-shopping_list_df = pd.DataFrame([
-    {"カテゴリー": category, "アイテム": item}
-    for category, items in shopping_items.items()
-    for item in items
+# Create DataFrame 
+shopping_list_df = pd.DataFrame([ 
+ {"category": category, "item": item} 
+ for category, items in shopping_items.items() 
+ for item in items 
 ])
 
-import ace_tools as tools; tools.display_dataframe_to_user(name="魂香スープ＆モクテルの買い物リスト", dataframe=shopping_list_df)
+import ace_tools as tools; tools.display_dataframe_to_user(name="shopping list for soul incense soup & mocktail", dataframe=shopping_list_df)
