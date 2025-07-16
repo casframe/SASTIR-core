@@ -12,8 +12,7 @@ If you are inspired by this cosmic syntax, modest dimensional support is availab
 
 
 
-- [description English ver](description_en.md)
-- [description Japanese ver](description_ja.md)
+- [description English ver](https://github.com/casframe/SASTIR-core/blob/main/description.md)
 
 # Edible Syntax
 - [recipe_ja.](recipe_ja.python)
